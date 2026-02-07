@@ -1,4 +1,4 @@
-# Dmitriu Nickitenko | C++, Java Developer
+# Dmitriy Nickitenko | C++, Java Developer
 
 <div align="center">
   <a href="mailto:ddimyc34@gmail.com"><img src="https://img.shields.io/badge/Email-ddimyc34@gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
