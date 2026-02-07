@@ -11,14 +11,14 @@
 </div>
 
 
-## 🎓 Education
+##  Education
 - **Gymnasium 35** (2013–2024)  
 - **Saint Petersburg State University**  
   Faculty of Mathematics and Computer Science (2024–2028)  
 
 ---
 
-## 🚀 Skills
+##  Skills
 ### Programming
 - **Languages:** C++ (Advanced), Java (Intermediate), Python (Basic)  
 - **Tools:** CLion, VS Code, Git, Linux  
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔥 Projects
+##  Projects
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
