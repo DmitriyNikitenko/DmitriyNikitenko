@@ -7,7 +7,7 @@
   <a href="https://leetcode.com/u/dmitriynikitenko/"><img src="https://img.shields.io/badge/LeetCode-dmitriynikitenko-orange?style=flat&logo=leetcode" alt="LeetCode"></a>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRvN2d2cHNzc2RpbWN5OHJuNHJ4aWcyN3lkd3B4cTBrNDV2aDl2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
   <br><br> 
 </div>
 
