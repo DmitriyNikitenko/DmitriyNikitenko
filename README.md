@@ -35,6 +35,7 @@
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
+| **Numerical-library** | Library for linear algebra, differential and nonlinear equations and numerical integration. | Python, NumPy, PyTest | [GitHub](https://github.com/DmitriyNikitenko/numerical-library) |
 | **BigInteger** |Created a library for working with large numbers.| C++, CMake, OOP,Unit tests| [GitHub](https://github.com/DmitriuAndreevich/BigInteger) | 
 | **Containers** |Tutorial code for most STL containers, including iterators and fundamental algorithms | C++, Make, OOP, Fundamental algorithms, Working with STL,Unit tests | [GitHub](https://github.com/DmitriuAndreevich/Containers) | 
 | **Arcanoid** | Mini-game written using SFML 3.0 framework | C++, OOP, SFML 3.0 | [GitHub](https://github.com/DmitriuAndreevich/Arcanoid) | 
