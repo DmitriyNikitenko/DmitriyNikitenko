@@ -42,8 +42,6 @@
 | **DateTime Library** | Library for working with dates and times | C++17, OOP, Unit tests | [GitHub](https://github.com/DmitriyNikitenko/DateTime-Library) |
 | **MatrixLab** | Library for working with matrices | C++, OOP | [GitHub](https://github.com/DmitriyNikitenko/MatrixLab) |
 
-**Other Projects:** [View All Repositories](https://github.com/DmitriuAndreevich?tab=repositories)
-
 ---
 
 ## Strengths
