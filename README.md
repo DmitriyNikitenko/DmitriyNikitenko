@@ -13,9 +13,7 @@
 
 
 ##  Education
-- **Gymnasium 35** (2013–2024)  
-- **Saint Petersburg State University**  
-  Faculty of Mathematics and Computer Science (2024–2028)  
+- **Saint Petersburg State University** (2024–2028)  
 
 ---
 
