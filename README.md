@@ -13,18 +13,18 @@
 
 
 ##  Education
-- **Saint Petersburg State University** (2024–2028)  
+- **Saint Petersburg State University**
 
 ---
 
 ##  Skills
 ### Programming
-- **Languages:** C++ (Advanced), Java (Intermediate), Python (Basic)  
-- **Tools:** CLion, VS Code, Git, Linux  
-- **Interests:** Algorithms, Optimization, Cybersecurity
+- **Languages:** Java, C++  
+- **Tools:** Spring Boot, Git, Linux
+- **Interests:** Algorithms, Cybersecurity
 
 ### Languages
-- **English:** B1
+- **English:** B2
 - **Russian:** native 
 
 ---
