@@ -1,8 +1,7 @@
-# Dmitriy Nickitenko | C++, Java Developer
+# Dmitriy Nickitenko | Java Developer
 
 <div align="center">
-  <a href="mailto:dmitriunikitenko@gmail.com"><img src="https://img.shields.io/badge/Email-ddimyc34@gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
-  <a href="https://github.com/DmitriuAndreevich"><img src="https://img.shields.io/badge/GitHub-DmitriuAndreevich-black?style=flat&logo=github" alt="GitHub"></a>
+  <a href="mailto:dmitriunikitenko@gmail.com"><img src="https://img.shields.io/badge/Email-dmitriunikitenko@gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
   <a href="https://www.codewars.com/users/DmitriuAndreevich"><img src="https://img.shields.io/badge/Codewars-DmitriuAndreevich-red?style=flat&logo=codewars" alt="Codewars"></a>
   <a href="https://leetcode.com/u/dmitriynikitenko/"><img src="https://img.shields.io/badge/LeetCode-dmitriynikitenko-orange?style=flat&logo=leetcode" alt="LeetCode"></a>
 </div>
@@ -21,7 +20,6 @@
 ### Programming
 - **Languages:** Java, C++  
 - **Tools:** Spring Boot, Git, Linux
-- **Interests:** Algorithms, Cybersecurity
 
 ### Languages
 - **English:** B2
